@@ -5,6 +5,7 @@ vim.opt.relativenumber = true
 vim.opt.termguicolors = true
 vim.opt.undofile = true
 vim.opt.clipboard = "unnamedplus"
+vim.opt.swapfile = false
 
 -- SEARCH & INDENT
 vim.opt.ignorecase = true
