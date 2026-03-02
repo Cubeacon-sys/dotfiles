@@ -15,7 +15,3 @@ vim.opt_local.keywordprg = ":Man"
 
 -- NAVIGATION HELPERS
 local opts = { buffer = true, silent = true }
--- <leader>h : Switch to header (.h)
--- <leader>c : Switch to source (.c)
-vim.keymap.set("n", "<leader>h", ":find %:t:r.h<CR>", opts)
-vim.keymap.set("n", "<leader>c", ":find %:t:r.c<CR>", opts)

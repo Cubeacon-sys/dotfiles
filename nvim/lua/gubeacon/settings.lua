@@ -18,7 +18,9 @@ vim.opt.incsearch = true
 vim.opt.path:append("./**")
 vim.opt.path:append("/usr/include")
 
--- Keybinds
+-- KEYBINDS
 vim.keymap.set("n", "<C-n>", ":cnext<CR>")
 vim.keymap.set("n", "<C-p>", ":cprev<CR>")
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+vim.keymap.set("n", "<leader>ex", vim.cmd.Lex)
+
