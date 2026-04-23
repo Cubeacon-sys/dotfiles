@@ -10,6 +10,5 @@ This configuration mostly uses the catpuccin colorscheme with pink as the main c
 6. fastfetch
 7. cava
 # screenshots
-![Desktop Setup](screenshot1.png)
-![Desktop Setup](screenshot2.png)
-![Desktop Setup](screenshot3.png)
+![Desktop Setup](kurisu_rice.png)
+![Desktop Setup](kurisu_rice1.png)
